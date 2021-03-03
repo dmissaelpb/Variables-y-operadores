@@ -2,7 +2,7 @@
 Demostrar los conocimientos sobre el uso de variables y operadores aritméticos.
 
 
-#Objetivo 
+# Objetivo 
 El participante escribirá un programa para aplicar los operadores aritméticos fundamentales.
 
 Requerimientos 
@@ -31,4 +31,4 @@ Instrucciones
   a ) Incluye capturas de pantalla como evidencia del funcionamiento del programa.
   b ) Incluir la liga al repositorio en el reporte realizado.
 
-vercion 1.2
+vercion 1.3
